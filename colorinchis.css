@@ -1,0 +1,10 @@
+p.identificador{
+    color: blue;
+}
+p.black {
+    color: black;
+}
+p.navegador {
+    color: red;
+}
+p {color: green;}
